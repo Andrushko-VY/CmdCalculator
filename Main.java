@@ -3,10 +3,10 @@ import java.util.Scanner;
  
 public class Main {
 	
-	static String oper;
-	static double numb1, numb2;
+	private static String oper;
+	private static double numb1, numb2;
 	
-    static Scanner scanner = new Scanner(System.in);
+    private static Scanner scanner = new Scanner(System.in);
     
 
     public static void main(String[] args) {
